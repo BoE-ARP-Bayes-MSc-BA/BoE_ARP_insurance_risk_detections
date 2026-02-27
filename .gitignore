@@ -1,0 +1,11 @@
+# OS artifacts
+.DS_Store
+**/.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter cache
+.ipynb_checkpoints/
